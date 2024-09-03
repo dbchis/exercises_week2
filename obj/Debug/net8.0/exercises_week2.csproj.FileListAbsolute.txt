@@ -1,0 +1,14 @@
+E:\VKU4\c#\project\exercises_week2\bin\Debug\net8.0\exercises_week2.exe
+E:\VKU4\c#\project\exercises_week2\bin\Debug\net8.0\exercises_week2.deps.json
+E:\VKU4\c#\project\exercises_week2\bin\Debug\net8.0\exercises_week2.runtimeconfig.json
+E:\VKU4\c#\project\exercises_week2\bin\Debug\net8.0\exercises_week2.dll
+E:\VKU4\c#\project\exercises_week2\bin\Debug\net8.0\exercises_week2.pdb
+E:\VKU4\c#\project\exercises_week2\obj\Debug\net8.0\exercises_week2.GeneratedMSBuildEditorConfig.editorconfig
+E:\VKU4\c#\project\exercises_week2\obj\Debug\net8.0\exercises_week2.AssemblyInfoInputs.cache
+E:\VKU4\c#\project\exercises_week2\obj\Debug\net8.0\exercises_week2.AssemblyInfo.cs
+E:\VKU4\c#\project\exercises_week2\obj\Debug\net8.0\exercises_week2.csproj.CoreCompileInputs.cache
+E:\VKU4\c#\project\exercises_week2\obj\Debug\net8.0\exercises_week2.dll
+E:\VKU4\c#\project\exercises_week2\obj\Debug\net8.0\refint\exercises_week2.dll
+E:\VKU4\c#\project\exercises_week2\obj\Debug\net8.0\exercises_week2.pdb
+E:\VKU4\c#\project\exercises_week2\obj\Debug\net8.0\exercises_week2.genruntimeconfig.cache
+E:\VKU4\c#\project\exercises_week2\obj\Debug\net8.0\ref\exercises_week2.dll
